@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mlodyoskar
-- 👀 I’m interested in web development, and everything related to development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript and related technologies
 - 📫 You can reach me on [Instagram](https://www.instagram.com/oskarpuchalski01/) or [Twitter](https://twitter.com/puchalskioskar)
 
