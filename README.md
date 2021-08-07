@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mlodyoskar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript and related technologies
+- 🌱 I’m currently learning React
 - 📫 You can reach me on [Instagram](https://www.instagram.com/oskarpuchalski01/) or [Twitter](https://twitter.com/puchalskioskar)
 
 <!---
