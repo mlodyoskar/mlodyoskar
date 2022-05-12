@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mlodyoskar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
-- 📫 You can reach me on [Instagram](https://www.instagram.com/oskarpuchalski01/) or [Twitter](https://twitter.com/puchalskioskar)
+- 🌱 I’m currently learning Next.js
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/oskarpuchalski/) or [Mail](mailto:oskarpuchalski17@gmail.com)
 
 <!---
 mlodyoskar/mlodyoskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
