@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mlodyoskar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Next.js and Typescript
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/oskarpuchalski/) or [Mail](mailto:oskarpuchalski17@gmail.com)
 
 <!---
